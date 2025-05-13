@@ -14,16 +14,16 @@ Also featured on the [Roblox Developer Forum](https://devforum.roblox.com/t/POST
     <td><strong>Lots of Tails</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/global-wind-preview.gif" width="320"/></td>
-    <td><img src="assets/lots-of-physics-tails-preview.gif" width="320"/></td>
+    <td><img src="assets/global-wind-physics-tails-preview.gif" width="320"/></td>
+    <td><img src="assets/lots-of-physics-tails-physics-tails-preview.gif" width="320"/></td>
   </tr>
   <tr>
     <td><strong>Tail Optimization</strong></td>
     <td><strong>Tail Controllers</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/tail-optimization-preview.gif" width="320"/></td>
-    <td><img src="assets/tail-controllers-preview.gif" width="320"/></td>
+    <td><img src="assets/tail-optimization-physics-tails-preview.gif" width="320"/></td>
+    <td><img src="assets/tail-controllers-physics-tails-preview.gif" width="320"/></td>
   </tr>
 </table>
 
