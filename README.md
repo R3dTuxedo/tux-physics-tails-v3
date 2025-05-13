@@ -5,7 +5,7 @@ Dynamic tail physics system for Roblox characters.
 
 Created by [@R3dTuxedo](https://devforum.roblox.com/u/r3dtuxedo/summary)
 
-Also featured on the [Roblox Developer Forum](https://devforum.roblox.com/t/POSTID) — join the discussion or share your feedback!
+Also featured on the [Roblox Developer Forum](https://devforum.roblox.com/t/tux-physics-tails-v3/3648854) — join the discussion or share your feedback!
 
 ## Preview
 <table>
