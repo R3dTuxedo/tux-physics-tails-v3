@@ -34,6 +34,7 @@ Also featured on the [Roblox Developer Forum](https://devforum.roblox.com/t/tux-
 - **Scriptable Runtime Control** - Programmatically modify behaviours.
 - **UGC Accessory Support** - Project's primary goal has been to work with tail accessories.
 - **Custom Tail Support** - Works with non-accessory tails.
+- **Supports R15 and R6** - Automatically handles default Roblox Characters.
 - **Custom Character Support** - Works with custom rigs and NPCs.
 - **Dynamic Character Scaling** - Seamlessly handles changes in character scale.
 - **Precedural Wag Animation** - Built-in idle wagging animation.
