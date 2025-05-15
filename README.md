@@ -50,7 +50,7 @@ There is also a `Support TuxPhysicsTails [OPTIONAL]` model included in the downl
 
 ![Support The Project Tail Preview](assets/support-the-project-tail-preview.gif)
 
-Earn up to **~120 Robux per sale** when others purchase the accessory through your experience — [Learn more about affiliate sales](https://create.roblox.com/docs/en-us/monetize-avatar#:~:text=Affiliate%20(experience%20owner)%20receives%2040%25)
+Earn up to **~28 Robux per sale** when others purchase the accessory through your experience — [Learn more about affiliate sales](https://create.roblox.com/docs/en-us/monetize-avatar#:~:text=Affiliate%20(experience%20owner)%20receives%2040%25)
 
 *(Accessory is included as an optional model to support the project — no setup required.)*
 
