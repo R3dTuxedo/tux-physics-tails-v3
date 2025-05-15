@@ -86,7 +86,7 @@ If you would like to modify the stiffness, damping, etc., you can find the confi
 There are scripting examples included in the download. If you would like to make custom tails see `SetUpPhysicsTail Usage Examples`. You can also check `Tail Controllers` for examples on controlling the tails with scripts.
 
 # Download
-[tux-physics-tails-3.0.0.rbxm](https://raw.githubusercontent.com/R3dTuxedo/tux-physics-tails-v3/refs/heads/main/tux-physics-tails-3.0.0.rbxm)
+[tux-physics-tails-3.0.1.rbxm](https://raw.githubusercontent.com/R3dTuxedo/tux-physics-tails-v3/refs/heads/main/tux-physics-tails-3.0.1.rbxm)
 
 ## License
 This system is completely free to use.
